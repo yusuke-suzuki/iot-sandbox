@@ -4,5 +4,10 @@
   "main": "index.js",
   "repository": "git@github.com:yusuke-suzuki/iot-sandbox.git",
   "author": "Yusuke <yusuke.suzuki.0707@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^6.1.0",
+    "jsonwebtoken": "^8.4.0",
+    "mqtt": "^2.18.8"
+  }
 }
